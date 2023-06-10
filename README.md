@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Shahid Naqash
-- 👀 I’m a MERN stack developer and have more than 1 year of industry experience.
+- 👀 I’m a MERN stack developer and have more than 2 year of industry experience.
 - 🌱 I have expertise in Frontend development.
 - 💞️ I’m looking to be a part of an active team with a good environment to learn and grow.
 - 📫 you can reach me through my email shahidnaqash0@gmail.com or linkedIn https://www.linkedin.com/in/muhammad-shahid-naqash-791bb81a2/
