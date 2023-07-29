@@ -28,7 +28,7 @@ I'm a self-taught passionate MERN Stack Developer from Pakistan PK
 
 <br />
 
-<p  align="center">
+<p  align="center" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidnaqash&layout=compact&theme=buefy&hide_border=true" /></a> 
 </p>
 
