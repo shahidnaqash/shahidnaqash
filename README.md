@@ -15,6 +15,7 @@ I'm a self-taught passionate MERN Stack Developer from Pakistan PK
 - ❤️ JavaScript Enthusiast
 
 
+<br />
 
 <code><img height="20" alt="typescript" src="https://p7.hiclipart.com/preview/632/675/720/salesforce-com-cloud-computing-salesforce-marketing-cloud-customer-relationship-management-business-cloud-computing.jpg"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -25,6 +26,9 @@ I'm a self-taught passionate MERN Stack Developer from Pakistan PK
 
 <br />
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidnaqash&layout=compact&theme=buefy&hide_border=true" /></a> |
+<br />
 
+<p  align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidnaqash&layout=compact&theme=buefy&hide_border=true" /></a> 
+</p>
 
