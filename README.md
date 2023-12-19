@@ -6,11 +6,11 @@
 
 - 💼 Salesforce Commerce Cloud Developer at [Royalcyber](http://royalcyber.com/)
 
--  MERN Stack Developer
+- Salesforce Certified B2C Commerce Developer
 
-- Certified B2C Commerce Developer
+- Salesforce Certified JavaScript Developer I
 
-- JavaScript Enthusiast ❤️
+- MERN Stack ❤️
 
 
 <br />
