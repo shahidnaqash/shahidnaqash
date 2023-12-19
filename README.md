@@ -12,7 +12,7 @@ I'm a self-taught passionate MERN Stack Developer from Pakistan PK
 
 - Certified B2C Commerce Developer
 
-- ❤️ JavaScript Enthusiast
+- JavaScript Enthusiast ❤️
 
 
 <br />
