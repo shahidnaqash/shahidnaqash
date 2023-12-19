@@ -2,8 +2,6 @@
 
 <br />
 
-I'm a self-taught passionate MERN Stack Developer from Pakistan PK
-
 **About me**
 
 - 💼 Salesforce Commerce Cloud Developer at [Royalcyber](http://royalcyber.com/)
